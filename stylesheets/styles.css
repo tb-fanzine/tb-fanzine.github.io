@@ -15,7 +15,7 @@ body {
 }
 
 #title h1 {
-  color: #F0E7D5;
+  color: white;
 }
 
 #title {
@@ -24,8 +24,8 @@ body {
   margin: auto;
   margin-bottom: 0px;
   padding: 20px 0px;
-  background-color: #090A3A;
-  color: #F0E7D5;
+  background-color: #0D0F58;
+  color: white;
 }
 #title h1 { font-size: 52px; }
 #title p  { font-size: 20px; }
